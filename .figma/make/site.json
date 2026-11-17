@@ -1,0 +1,14 @@
+{
+  "title": "Booking Flow",
+  "icons": {
+    "icon": ""
+  },
+  "description": "Effortlessly coordinate household tasks with a smart assistant that transforms natural-language requests into customizable service plans for busy individuals.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
